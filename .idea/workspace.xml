@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7208400-a49c-44ad-bf08-f03328e3ec4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flash-chat-flutter/images/1COMEDY AT KIBALITEK240836.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-chat-flutter/images/busia men" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-chat-flutter/images/images (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flash-chat-flutter/images/java team (2).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/gen/com/kibalitek/kibalitek_team/Manifest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/gen/com/kibalitek/kibalitek_team/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/java/com/kibalitek/kibalitek_team/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flash-chat-flutter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flash-chat-flutter/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flash-chat-flutter/lib/screens/welcome_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/lib/screens/welcome_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flash-chat-flutter/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/michrophone/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/michrophone/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uganda_cities/lib/mocks/mock_location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/uganda_cities/lib/mocks/mock_location.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uganda_cities/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uganda_cities/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flutter_app_kibalitek/.gradle/vcs-1/gc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/flutter_app_kibalitek/.gradle/vcs-1/gc.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="549" />
+    <option name="width" value="781" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/.android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7208400-a49c-44ad-bf08-f03328e3ec4e" name="Default Changelist" comment="" />
+      <created>1574846734124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574846734124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="549" y="0" width="781" height="775" extended-state="1" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.17927383" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flutter_app_kibalitek/.gradle/vcs-1/gc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 28 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2074883" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

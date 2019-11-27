@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/busia_schools/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/busia_schools/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/health_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/health_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/kibali_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/kibali_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/kibaliwritetoemulator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/kibaliwritetoemulator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/michrophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/michrophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test10/build" />
+      <excludeFolder url="file://$MODULE_DIR$/uganda_cities/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/uganda_cities/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
