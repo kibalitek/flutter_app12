@@ -1,29 +1,74 @@
 import 'package:flutter/material.dart';
 
-class Styles {
-  static const _textSizeLarge = 25.0;
-  static const _textSizeDefault = 16.0;
-  static final Color _textColorStrong = _hexToColor('000000');
-  static final Color _textColorDefault = _hexToColor('666666');
-  static final String _fontNameDefault = 'muli';
-
-  static final navBarTitle = TextStyle(
-    fontFamily: _fontNameDefault,
+void main() async {
+  runApp(
+    MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        body: MyApp(),
+      ),
+    ),
   );
+}
 
-  static final headerLarge = TextStyle(
-    fontFamily: _fontNameDefault,
-    fontSize: _textSizeLarge,
-    color: _textColorStrong,
-  );
+class MyApp extends StatefulWidget {
+  @override
+  _MyAppState createState() => _MyAppState();
+}
 
-  static final textDefault = TextStyle(
-//    fontFamily: _fontNameDefault,
-    fontSize: _textSizeDefault,
-    color: _textColorDefault,
-  );
+class _MyAppState extends State<MyApp>
+    with SingleTickerProviderStateMixin {
+  AnimationController controller;
+  Animation<double> animation;
 
-  static Color _hexToColor(String code) {
-    return Color(int.parse(code.substring(0, 6), radix: 16) + 0xFF000000);
+  @override
+  void initState() {
+    super.initState();
+
+    controller = AnimationController(
+      duration: Duration(seconds: 1),
+      vsync: this,
+    );
+
+    animation = CurvedAnimation(
+      parent: controller,
+      curve: Curves.easeInOutCubic,
+    ).drive(Tween(begin: 0, end: 2));
+  }
+
+  @override
+  void dispose() {
+    controller.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: () {
+        controller
+          ..reset()
+          ..forward();
+      },
+      child: RotationTransition(
+        turns: animation,
+        child: Stack(
+          children: [
+            Positioned.fill(
+              child: FlutterLogo(),
+            ),
+            Center(
+              child: Text(
+                'BUSIA APP   by KIBALITEK TEAM',
+                style: TextStyle(
+                  fontSize: 60.0,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
   }
 }

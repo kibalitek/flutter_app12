@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/anyango_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/anyango_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/busia_schools/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/busia_schools/build" />
       <excludeFolder url="file://$MODULE_DIR$/flash-chat-flutter/.pub" />

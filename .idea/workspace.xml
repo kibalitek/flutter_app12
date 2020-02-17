@@ -6,6 +6,12 @@
       <change afterPath="$PROJECT_DIR$/flash-chat-flutter/images/busia men" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/flash-chat-flutter/images/images (6).jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/flash-chat-flutter/images/java team (2).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anyango_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/anyango_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools" beforeDir="false" afterPath="$PROJECT_DIR$/busia_schools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busia_schools/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/busia_schools/.gradle/5.1.1/fileChanges/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/busia_schools/android/app/build.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/busia_schools/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
@@ -24,11 +30,16 @@
       <change beforePath="$PROJECT_DIR$/busia_schools/android/gradle.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/busia_schools/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/busia_schools/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flash-chat-flutter" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flash-chat-flutter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flash-chat-flutter/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flash-chat-flutter/lib/screens/welcome_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/lib/screens/welcome_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flash-chat-flutter/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flash-chat-flutter/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_app" beforeDir="false" afterPath="$PROJECT_DIR$/health_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/health_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/michrophone" beforeDir="false" afterPath="$PROJECT_DIR$/michrophone" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/michrophone/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/michrophone/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uganda_cities" beforeDir="false" afterPath="$PROJECT_DIR$/uganda_cities" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uganda_cities/lib/mocks/mock_location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/uganda_cities/lib/mocks/mock_location.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uganda_cities/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uganda_cities/pubspec.lock" afterDir="false" />
     </list>
@@ -65,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="549" />
     <option name="width" value="781" />
     <option name="height" value="775" />
@@ -113,7 +124,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="549" y="0" width="781" height="775" extended-state="1" />
+    <frame x="549" y="0" width="781" height="775" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.17927383" />

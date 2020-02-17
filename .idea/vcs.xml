@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anyango_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/busia_schools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/flash-chat-flutter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/health_app" vcs="Git" />
