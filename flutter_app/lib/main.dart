@@ -1,20 +1,22 @@
-import 'package:flutter/material.dart';
 
-void main() {
-  runApp(
-    MaterialApp(
-      home: Scaffold(
-        backgroundColor: Colors.blue,
-        appBar: AppBar(
-          title: Text('KIBALITEKAPP'),
-          backgroundColor: Colors.greenAccent,
-        ), //AppBar
-        body: Center(
-          child: Image(
-            image: AssetImage('Images/phab2.jpg'),
-          ), // Image
-        ), // Center
-      ), // Scaffold
-    ), // MaterialApp
-  );
+import"package:flutter/material.dart" ;
+void main(){
+
+  runApp(myapp() );
+
+
+}
+class myapp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "Busia app",
+        theme: ThemeData(primarySwatch: Colors.blue),
+        home: Scaffold(appBar: AppBar(title:Text("my busia location"),
+        ),
+
+        )
+
+    );
+  }
 }
