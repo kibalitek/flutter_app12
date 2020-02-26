@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='floating action_kibalitek trial'
