@@ -1,5 +1,4 @@
-
- import "package:flutter/material.dart";
+import package:flutter/material.dart;
 
       enum POSITIONS { endDocked, centerFloat, endFloat, centerDocked }
 
@@ -8,7 +7,7 @@
      _LFloatingActionButtonState createState() => _LFloatingActionButtonState();
     }
 
-    Class _LFloatingActionButtonState extends State<LFloatingActionButton> {
+    Class _LFloatingActionButtonState extends State<LFloatingActionButton><![CDATA[ {
   FloatingActionButtonLocation _fabLocation =
   FloatingActionButtonLocation.centerDocked;
   POSITIONS _character = POSITIONS.centerDocked;
@@ -22,7 +21,7 @@
   child: Scaffold(
   body: ListView(
   padding: const EdgeInsets.all(8),
-  children: <Widget>[
+  children: ]]><Widget><![CDATA[[
     ListTile(
     title: Text("Mini"),
     leading: Checkbox(
@@ -114,3 +113,4 @@
     }
     }
 
+]]>
