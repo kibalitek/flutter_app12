@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":" external.linked.project.path="C:\Users\Joe\AndroidStudioProjects\MyApplication4" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/bin/cache/dart-sdk/lib/_internal/js_runtime/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/bin/cache/dart-sdk/lib/_internal/js_runtime/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/bin/cache/dart-sdk/lib/_internal/sdk_library_metadata/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/bin/cache/dart-sdk/lib/_internal/sdk_library_metadata/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/bin/cache/pkg/sky_engine/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/bin/cache/pkg/sky_engine/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/automated_tests/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/automated_tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/benchmarks/complex_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/benchmarks/complex_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/benchmarks/macrobenchmarks/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/benchmarks/macrobenchmarks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/benchmarks/microbenchmarks/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/benchmarks/microbenchmarks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/bots/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/bots/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/bots/test/analyze-test-input/root/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/customer_testing/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/customer_testing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/devicelab/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/devicelab/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/docs/platform_integration/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/docs/platform_integration/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/abstract_method_smoke_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/abstract_method_smoke_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_embedding_v2_smoke_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_embedding_v2_smoke_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_semantics_testing/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_semantics_testing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_splash_screens/splash_screen_kitchen_sink/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_splash_screens/splash_screen_kitchen_sink/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_splash_screens/splash_screen_load_rotate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_splash_screens/splash_screen_load_rotate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_splash_screens/splash_screen_trans_rotate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_splash_screens/splash_screen_trans_rotate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_views/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/android_views/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/channels/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/channels/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/codegen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/codegen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/external_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/external_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/flavors/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/flavors/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/flutter_driver_screenshot_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/flutter_driver_screenshot_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/image_loading/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/image_loading/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/ios_add2app/flutterapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/ios_add2app/flutterapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/ios_add2app_life_cycle/flutterapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/ios_add2app_life_cycle/flutterapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/named_isolates/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/named_isolates/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/platform_interaction/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/platform_interaction/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/release_smoke_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/release_smoke_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/simple_codegen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/simple_codegen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/web/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/web_compile_tests/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/integration_tests/web_compile_tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/manual_tests/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/manual_tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/missing_dependency_tests/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/missing_dependency_tests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/snippets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/snippets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/tools/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/tools/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/tools/gen_keycodes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/tools/gen_keycodes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/tools/vitool/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/dev/tools/vitool/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/catalog/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/catalog/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/flutter_gallery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/flutter_gallery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/flutter_view/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/flutter_view/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/image_list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/image_list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/layers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/layers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/platform_channel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/platform_channel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/platform_channel_swift/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/platform_channel_swift/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/platform_view/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/platform_view/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/splash/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/splash/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/stocks/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/examples/stocks/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_driver/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_driver/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_goldens/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_goldens/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_goldens_client/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_goldens_client/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_localizations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_localizations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_test/test/test_config/project_root/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_test/test/test_config/project_root/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_tools/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_tools/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_tools/test/data/asset_test/font/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_tools/test/data/asset_test/font/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_tools/test/data/asset_test/main/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_tools/test/data/asset_test/main/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_web_plugins/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/flutter_web_plugins/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/fuchsia_remote_debug_protocol/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bwire/flutter/packages/fuchsia_remote_debug_protocol/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="JDK" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
