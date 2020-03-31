@@ -1,48 +1,47 @@
-Package:”flutter/material.dart”;
+import 'package:flutter/material.dart';
 Void main(){
   runApp(mybiologyapp());
 }
-Class mybiologyapp extends StatelessWidget{
-@overide widget bulid (bulidContext content){
-  return MaterialApp(title:’biology virtual app’,
+Class Mybiologyapp = StatelessWidget{
+@overide widget buiLd (bulidContext content){
+  return MaterialApp(title:"biology virtual app",
       home:virtualapp()
   );
 }
-}
-Class virtualapp extends StatefullWidget{
+Class Virtualapp = StatefullWidget{
 @override
 _virtualappstate createState= new _virtualappstate();
 }
-Class _virtualapp extends state<virtualapp>{
+Class _virtualapp = state<virtualapp>{
 bool show=true;
 RaisedButton biologydraw;
 RaisedButton foodtest;
 RaisedButton soil;
-RaisedButton aplant;
+RaisedButton a plant;
 RaisedButton gene;
 RaisedButton animal;
 
-@override widget bulid(bulidcontext content){
-  return Scaffold(appBar:AppBar(Text(‘biology virtual app’)),
+@override widget build(bulidcontext content){
+  return Scaffold(appBar:AppBar(Text( "biology virtual app")),
       body:Center(child:Column(
           mainAxisAlignment:MainAxisAlignemt.spaceEvenly,
           children:<widget>[
-            biologydraw =RasiedButton(child:Text(‘biological drawing’),
+            biologydraw =RasiedButton(child:Text("biological drawing"),
                 onTap:_contentone
             ),
-            Foodtest=RasiedButton(child:Text(‘Food Test’),
+            Foodtest=RasiedButton(child:Text("Food Test"),
                 onTap:_contenttwo
             ),
-            Soil=RasiedButton(child:Text(‘soil science’),
+            Soil=RasiedButton(child:Text("soil science"),
                 onTap:_contentthree
             ),
-            animal=RasiedButton(child:Text(‘animal Component’),
+            animal=RasiedButton(child:Text("animal Component"),
                 onTap:_contentfour
             ),
-            Aplant=RasiedButton(child:Text(‘plant Component’),
+            Aplant=RasiedButton(child:Text("plant Component"),
                 onTap:_contentfive
             ),
-            gene=RasiedButton(child:Text(‘Gentics’),
+            gene=RasiedButton(child:Text("Gentics"),
                 onTap:_conttentsix
             )
 
@@ -168,7 +167,7 @@ Void _contentfive(){
   }
   }
 }
-Void _contentsix(){
+Void contentsix(){
   setState(){
     if(show==true){
       show=false,
