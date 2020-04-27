@@ -1,197 +1,58 @@
 import 'package:flutter/material.dart';
+
+Import package:flutter/material.dart;
 Void main(){
-  runApp(mybiologyapp());
+  runApp(banksection)
 }
-Class Mybiologyapp = StatelessWidget{
-@overide widget buiLd (bulidContext content){
-  return MaterialApp(title:"biology virtual app",
-      home:virtualapp()
+Class banksection extends StatlessWidget{
+Final future<list<bank>>bank;
+Final items=bank.getallbankdetails,
+
+@override widget bulid(bulidContext  context){
+  Return scaffold(appBar:AppBar(Text(‘bank details’)),
+  Body:center(child:FutureBuilder<list<bank>>>)(
+  Future:bank,builder:(context,snapshot){
+  If(snapshot.haserror)print (snapshot.error);
+  return snapshot.hasData?banklist(items:snapshot.data):
+  center(child:CircularprogressIndicator());
+  }
+  ),
   );
 }
-Class Virtualapp = StatefullWidget{
+Class banklist extends statelessWidget{
+Final list<bank>items;
+Banklist({Key key,this.items});
 @override
-_virtualappstate createState= new _virtualappstate();
-}
-Class _virtualapp = state<virtualapp>{
-bool show=true;
-RaisedButton biologydraw;
-RaisedButton foodtest;
-RaisedButton soil;
-RaisedButton a plant;
-RaisedButton gene;
-RaisedButton animal;
-
-@override widget build(bulidcontext content){
-  return Scaffold(appBar:AppBar(Text( "biology virtual app")),
-      body:Center(child:Column(
-          mainAxisAlignment:MainAxisAlignemt.spaceEvenly,
-          children:<widget>[
-            biologydraw =RasiedButton(child:Text("biological drawing"),
-                onTap:_contentone
-            ),
-            Foodtest=RasiedButton(child:Text("Food Test"),
-                onTap:_contenttwo
-            ),
-            Soil=RasiedButton(child:Text("soil science"),
-                onTap:_contentthree
-            ),
-            animal=RasiedButton(child:Text("animal Component"),
-                onTap:_contentfour
-            ),
-            Aplant=RasiedButton(child:Text("plant Component"),
-                onTap:_contentfive
-            ),
-            gene=RasiedButton(child:Text("Gentics"),
-                onTap:_conttentsix
-            )
-
-          ]
-
-      )));
-}
-Void _contentone(){
-  setState(){
-    if(show==true){
-      show=false,
-    biologydraw(visible:true);
-    foodtest(visible:false);
-    soil(visible:false);
-    aplant(visible:false);
-    gene(visible:false);
-    animal(visible:false);
-
-    }else if(show==false){
-    show=true,
-    biologydraw(visible:true);
-    foodtest(visible:true);
-    soil(visible:true);
-    aplant(visible:true);
-    gene(visible:true);
-    animal(visible:true);
-
-    }
+Widget bulid(bulidcontext context){
+  Return listview.bulider(itemcount:items.length,itemBulider:(context,index){
+    Return GestureDetector(child:banklist(item:items[index]),
+  onTap:(){
+  Navigator.push(context,materialPageRoute(builder:(context)=>bankpage(item:items[index]);
   }
-}
-Void _contenttwo(){
-  setState(){
-    if(show==true){
-      show=false;
-      biologydraw(visible:false);
-      foodtest(visible:true);
-      soil(visible:false);
-      aplant(visible:false);
-      gene(visible:false);
-      animal(visible:false);
-
-
-    }else if(show==false){
-      show=true,
-    biologydraw(visible:true);
-    foodtest(visible:true);
-    soil(visible:true);
-    aplant(visible:true);
-    gene(visible:true);
-    animal(visible:true);
-
-  }
-  }
-}
-Void _contentthree(){
-  setState(){
-    if(show==true){
-      show=false,
-    biologydraw(visible:false);
-    foodtest(visible:false);
-    soil(visible:true);
-    aplant(visible:false);
-    gene(visible:false);
-    animal(visible:false);
-
-    }else if(show==false){
-    show=true,
-    biologydraw(visible:true);
-    foodtest(visible:true);
-    soil(visible:true);
-    aplant(visible:true);
-    gene(visible:true);
-    animal(visible:true);
-
-    }
-  }
-}
-Void _contentfour(){
-  setState(){
-    if(show==true){
-      show=false,
-    biologydraw(visible:false);
-    foodtest(visible:false);
-    soil(visible:false);
-    aplant(visible:false);
-    gene(visible:false);
-    animal(visible:true);
-
-
-    }else if(show==false){
-    show=true,
-    biologydraw(visible:true);
-    foodtest(visible:true);
-    soil(visible:true);
-    aplant(visible:true);
-    gene(visible:true);
-    animal(visible:true);
-
-    }
-  }
-}
-Void _contentfive(){
-  setState(){
-    if(show==true){
-      show=false;
-      biologydraw(visible:false);
-      foodtest(visible:false);
-      soil(visible:false);
-      aplant(visible:true);
-      gene(visible:false);
-      animal(visible:false);
-
-
-    }else if(show==false){
-      show=true
-    biologydraw(visible:true);
-    foodtest(visible:true);
-    soil(visible:true);
-    aplant(visible:true);
-    gene(visible:true);
-    animal(visible:true);
-
-  }
-  }
-}
-Void contentsix(){
-  setState(){
-    if(show==true){
-      show=false,
-    biologydraw(visible:false);
-    foodtest(visible:false);
-    soil(visible:false);
-    aplant(visible:false);
-    gene(visible:true);
-    animal(visible:false);
-
-    }else if(show==false){
-    show=true;
-    biologydraw(visible:true);
-    foodtest(visible:true);
-    soil(visible:true);
-    aplant(visible:true);
-    gene(visible:true);
-    animal(visible:true);
-
-    }
-  }
-}
-
-
-
 
 }
+}
+}
+Bankpage extends StatelessWidget{
+Bankpage({Key key,this.item}):super(Key:key);
+Final bank item;
+@override widget bulid(bulidcontext context){
+  Return scaffold(
+      appBar:AppBar(title:Text(this.item.name)),
+  body:center(child:container(padding:Edgeinsets.all(10),
+  child:column(mainAxilAlignment:MainAxilsAlignment.start,
+  crossAxisAlignment:CrossAxilsAlignment.start,
+  children:<widget>[
+  text(this.item.name)
+  text(this.item.contact),
+  text(this.item.location),
+  text(this.item.image),
+
+  ]
+  ),
+  ),
+  );
+}
+}
+}
+;
